@@ -8,3 +8,13 @@ E:\vscode\master\ReceiveCardAIO\WeightParaConfig\obj\Debug\ParaConfig.csproj.Cor
 E:\vscode\master\ReceiveCardAIO\WeightParaConfig\obj\Debug\ParaConfig.csproj.CopyComplete
 E:\vscode\master\ReceiveCardAIO\WeightParaConfig\obj\Debug\WeightParaConfig.exe
 E:\vscode\master\ReceiveCardAIO\WeightParaConfig\obj\Debug\WeightParaConfig.pdb
+E:\vscode\master\ReceiveCardAIO\ParaConfig\bin\Debug\WeightParaConfig.exe.config
+E:\vscode\master\ReceiveCardAIO\ParaConfig\bin\Debug\WeightParaConfig.exe
+E:\vscode\master\ReceiveCardAIO\ParaConfig\bin\Debug\WeightParaConfig.pdb
+E:\vscode\master\ReceiveCardAIO\ParaConfig\bin\Debug\CRCXMODEM.dll
+E:\vscode\master\ReceiveCardAIO\ParaConfig\bin\Debug\CRCXMODEM.pdb
+E:\vscode\master\ReceiveCardAIO\ParaConfig\obj\Debug\ParaConfig.csprojAssemblyReference.cache
+E:\vscode\master\ReceiveCardAIO\ParaConfig\obj\Debug\ParaConfig.csproj.CoreCompileInputs.cache
+E:\vscode\master\ReceiveCardAIO\ParaConfig\obj\Debug\ParaConfig.csproj.CopyComplete
+E:\vscode\master\ReceiveCardAIO\ParaConfig\obj\Debug\WeightParaConfig.exe
+E:\vscode\master\ReceiveCardAIO\ParaConfig\obj\Debug\WeightParaConfig.pdb

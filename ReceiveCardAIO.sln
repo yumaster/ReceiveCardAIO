@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveCardAIO", "ReceiveCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRCXMODEM", "CRCXMODEM\CRCXMODEM.csproj", "{A373F910-263C-408C-83C7-13DFC6B60D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParaConfig", "WeightParaConfig\ParaConfig.csproj", "{57C4EA43-309C-4C53-BA3A-F0171565B149}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParaConfig", "ParaConfig\ParaConfig.csproj", "{57C4EA43-309C-4C53-BA3A-F0171565B149}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
