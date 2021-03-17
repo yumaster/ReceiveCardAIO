@@ -241,12 +241,9 @@ namespace ReceiveCardAIO
                             if (result > -1)
                             {
                                 bool isLiveness = false;
-                                //调整图片数据，非常重要
-                                ImageInfo imageInfo = ImageUtil.ReadBMP(bitmap);
+                                ImageInfo imageInfo = ImageUtil.ReadBMP(bitmap); //调整图片数据
                                 if (imageInfo == null)
-                                {
                                     return;
-                                }
                                 int retCode_Liveness = -1;
                                 //RGB活体检测
                                 ASF_LivenessInfo liveInfo = FaceUtil.LivenessInfo_RGB(pVideoImageEngine, imageInfo, multiFaceInfo, out retCode_Liveness);
@@ -266,17 +263,9 @@ namespace ReceiveCardAIO
                                     idCardHelper.idInfo.isRight = false;
                                     //在子线程中输出信息到messageBox
                                     AppendText p = new AppendText(AddTextToMessBox);
-                                    lbl_msg.Invoke(p, "人脸验证成功，请通过闸机...\n");
-                                    //最终通过闸机
+                                    lbl_msg.Invoke(p, "人脸验证成功，请取卡...\n");
                                     pass = 1;
-                                    //以人脸识别的方式通过闸机
                                     idCardHelper.idInfo.isPass = 1;
-                                    /*
-                                     *通信部分，将内存中的数据存放到数据库中
-                                     */
-                                    //将身份证数据传入到服务器上
-                                    //sendMessageToServer();
-
                                     //将比对结果放到显示消息中，用于最新显示
                                     trackUnit.message = string.Format("通过验证，相似度为{0}", similarity);
                                     FileHelper.DeleteFile(m_strPath);   //删除验证过的本地文件
