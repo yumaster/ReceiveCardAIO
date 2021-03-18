@@ -7,7 +7,6 @@ namespace ArcFaceSharp.Util
 {
     public class FaceUtil
     {
-
         /// <summary>
         /// 人脸检测(PS:检测RGB图像的人脸时，必须保证图像的宽度能被4整除，否则会失败)
         /// </summary>
