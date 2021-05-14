@@ -61,6 +61,7 @@
     <Compile Include="Model\FaceTrackUnit.cs" />
     <Compile Include="Model\ImageInfo.cs" />
     <Compile Include="Model\MRECT.cs" />
+    <Compile Include="Model\MultiFaceModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SDKAPI\ASFFunctions.cs" />
     <Compile Include="Util\FaceUtil.cs" />

@@ -28,3 +28,9 @@ E:\vscode\master\ReceiveCardAIO\ArcFaceSharp\obj\Debug\ArcFaceSharp.csprojAssemb
 E:\vscode\master\ReceiveCardAIO\ArcFaceSharp\obj\Debug\ArcFaceSharp.csproj.CoreCompileInputs.cache
 E:\vscode\master\ReceiveCardAIO\ArcFaceSharp\obj\Debug\ArcFaceSharp.dll
 E:\vscode\master\ReceiveCardAIO\ArcFaceSharp\obj\Debug\ArcFaceSharp.pdb
+D:\vscode\master\ReceiveCardAIO\ArcFaceSharp\bin\Debug\ArcFaceSharp.dll
+D:\vscode\master\ReceiveCardAIO\ArcFaceSharp\bin\Debug\ArcFaceSharp.pdb
+D:\vscode\master\ReceiveCardAIO\ArcFaceSharp\obj\Debug\ArcFaceSharp.csprojAssemblyReference.cache
+D:\vscode\master\ReceiveCardAIO\ArcFaceSharp\obj\Debug\ArcFaceSharp.csproj.CoreCompileInputs.cache
+D:\vscode\master\ReceiveCardAIO\ArcFaceSharp\obj\Debug\ArcFaceSharp.dll
+D:\vscode\master\ReceiveCardAIO\ArcFaceSharp\obj\Debug\ArcFaceSharp.pdb
