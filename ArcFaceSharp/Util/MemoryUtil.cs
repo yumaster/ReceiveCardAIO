@@ -58,8 +58,8 @@ namespace ArcFaceSharp.Util
         /// <returns>转化后的对象</returns>
         public static T PtrToStructure<T>(IntPtr ptr)
         {
-            //return Marshal.PtrToStructure<T>(ptr);//.net 4.0 不支持
-            return (T)Marshal.PtrToStructure(ptr, typeof(T));
+            return Marshal.PtrToStructure<T>(ptr);//.net 4.0 不支持
+            //return (T)Marshal.PtrToStructure(ptr, typeof(T));
         }
 
         /// <summary>
